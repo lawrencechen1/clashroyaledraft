@@ -1,2 +1,3 @@
 # clashroyaledraft
-A quick analysis of Clash Royale's Draft mode. 
+A quick analysis of Spell Cards in Clash Royale's draft mode. 
+
